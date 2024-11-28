@@ -1,31 +1,21 @@
 # 👋 Bem-vindo ao meu GitHub!
 
-Olá! Meu nome é [Seu Nome] e sou desenvolvedor com experiência em [Tecnologias principais, como React, Node.js, etc.]. 
+Olá! Meu nome é Pedro e sou desenvolvedor com experiência em frontEnd e backEnd. 
 
-Tenho me dedicado ao desenvolvimento de projetos que envolvem [exemplo: sistemas administrativos, APIs, e aplicações frontend]. Este repositório é um reflexo do meu aprendizado, habilidades e projetos ao longo da minha jornada como desenvolvedor.
+Tenho me dedicado ao desenvolvimento de projetos que envolvem  sistemas administrativos, APIs, e aplicações frontend. Este repositório é um reflexo do meu aprendizado, habilidades e projetos ao longo da minha jornada como desenvolvedor.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 **Experiência:** 9 anos no mercado com foco em [sua área principal] e 2 anos estudando intensamente programação.
+- 🎓 **Experiência:Sou desenvolvedor junior, trabalho como desenvolvedor a 6 meses, porém estou 2 anos e meio estudando intensamente programação.
 - 🔧 **Principais habilidades:** 
-  - **Frontend:** React, Next.js, TypeScript, styled-components
-  - **Backend:** Node.js, RestAPI, SQL Server, MySQL
-  - **Outros:** Git, GitHub, Cloudinary, Context API, Redux
+  - **Frontend:** React, Next.js, TypeScript
+  - **Backend:** Node.js, RestAPI
+  - **Banco de dados: MySQL, SQLserver e PostgreSQL
+  - ** Mobile: Flutter
+  - **Outros:** Git, GitHub, SCRUM
 - 💡 Estou sempre ansioso para aprender mais e compartilhar conhecimentos!
-
----
-
-## 📂 Meus projetos
-
-### 🔥 Projetos em destaque:
-- [**Projeto 1** - Sistema Administrativo](#): Sistema completo para gerenciar funcionários e clientes, com autenticação e integração com Cloudinary.
-- [**Projeto 2** - API RESTful](#): API desenvolvida com Node.js e integração com banco de dados SQL Server.
-- [**Projeto 3** - Aplicação React com Hooks](#): Um aplicativo moderno com React, utilizando Context API e styled-components.
-
-### 🌱 Repositórios em desenvolvimento:
-Estou continuamente aprendendo e desenvolvendo projetos. Dê uma olhada nos meus repositórios para ver o que estou explorando atualmente!
 
 ---
 
@@ -33,20 +23,19 @@ Estou continuamente aprendendo e desenvolvendo projetos. Dê uma olhada nos meus
 
 | Tecnologia           | Descrição                                              |
 |----------------------|-------------------------------------------------------|
-| **React**            | Desenvolvimento de interfaces interativas.            |
+| **React e Next**     | Desenvolvimento de interfaces interativas.            |
 | **Node.js**          | Backend para APIs RESTful.                            |
 | **TypeScript**       | Código mais seguro e escalável.                       |
 | **SQL Server**       | Gerenciamento e modelagem de bancos de dados.         |
-| **Cloudinary**       | Armazenamento e gerenciamento de imagens na nuvem.    |
+| **Flutter**          | Para aplicativos mobile    |
 | **Git/GitHub**       | Controle de versão e colaboração em equipe.           |
 
 ---
 
 ## 📫 Contato
 
-📧 **Email:** [seu.email@email.com](mailto:seu.email@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-🌐 **Portfolio:** [www.seuportfolio.com](https://www.seuportfolio.com)  
+📧 **Email: ** pedro_developer@outlook.com  
+💼 **LinkedIn: ** www.linkedin.com/in/pedrodev-goncalves
 
 ---
 
