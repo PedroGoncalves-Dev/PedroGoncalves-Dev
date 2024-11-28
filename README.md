@@ -12,8 +12,8 @@ Tenho me dedicado ao desenvolvimento de projetos que envolvem  sistemas administ
 - 🔧 **Principais habilidades:** 
   - **Frontend:** React, Next.js, TypeScript
   - **Backend:** Node.js, RestAPI
-  - **Banco de dados: MySQL, SQLserver e PostgreSQL
-  - **Mobile: Flutter
+  - **Banco de dados:** MySQL, SQLserver e PostgreSQL
+  - **Mobile:** Flutter
   - **Outros:** Git, GitHub, SCRUM
 - 💡 Estou sempre ansioso para aprender mais e compartilhar conhecimentos!
 
