@@ -7,8 +7,10 @@ Tenho me dedicado ao desenvolvimento de projetos que envolvem  sistemas administ
 ---
 
 ## 🚀 Sobre mim
-
-- 🎓 **Experiência:Sou desenvolvedor junior, trabalho como desenvolvedor a 6 meses, porém estou 2 anos e meio estudando intensamente programação.
+- 💻 **Experiência:** Sou desenvolvedor junior, trabalho como desenvolvedor a 6 meses.
+- 🎓 **Formação:**
+  - Superior em analise e desenvolvimento de sistema
+  - Técnico em desenvolvimento de sistema
 - 🔧 **Principais habilidades:** 
   - **Frontend:** React, Next.js, TypeScript
   - **Backend:** Node.js, RestAPI
