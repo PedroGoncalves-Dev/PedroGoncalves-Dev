@@ -36,8 +36,8 @@ Tenho me dedicado ao desenvolvimento de projetos que envolvem  sistemas administ
 
 ## 📫 Contato
 
-📧 **Email: ** pedro_developer@outlook.com  
-💼 **LinkedIn: ** www.linkedin.com/in/pedrodev-goncalves
+📧 **Email:** pedro_developer@outlook.com  
+💼 **LinkedIn:** www.linkedin.com/in/pedrodev-goncalves
 
 ---
 
