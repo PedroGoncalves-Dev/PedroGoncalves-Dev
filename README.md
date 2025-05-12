@@ -7,7 +7,7 @@ Tenho me dedicado ao desenvolvimento de projetos que envolvem  sistemas administ
 ---
 
 ## 🚀 Sobre mim
-- 💻 **Experiência:** Sou desenvolvedor junior, trabalho como desenvolvedor a 8 meses.
+- 💻 **Experiência:** Sou desenvolvedor junior, trabalho como desenvolvedor a 1 ano.
 - 🎓 **Formação:**
   - Superior em analise e desenvolvimento de sistema
   - Técnico em desenvolvimento de sistema
