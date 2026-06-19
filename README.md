@@ -12,7 +12,7 @@ Tenho me dedicado ao desenvolvimento de projetos que envolvem  sistemas administ
   - Técnico em desenvolvimento de sistema
 - 🔧 **Principais habilidades:** 
   - **Frontend:** React, Next.js, TypeScript
-  - **Backend:** Node.js, RestAPI
+  - **Backend:** Node.js, .NET, C#, ASP.NET Core, RestAPI
   - **Banco de dados:** MySQL, SQLserver e PostgreSQL
   - **Mobile:** Flutter
   - **Outros:** Git, GitHub, SCRUM
